@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Book Buddy Fiction",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Book Buddy Science",
+      "program": "lib/main_science.dart",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
