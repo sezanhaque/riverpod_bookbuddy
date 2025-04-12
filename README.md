@@ -80,16 +80,30 @@ We are using Riverpod for state management and dependency injection, along with 
 
 ### Screenshots
 
-![1. Initial Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/3751ff22649160832958ca6f7ea6df7ca6cd2718/demo/screenshots/1.%20Initial%20Loading.png "Book List Screen")
+1. Initial Loading State
 
-![2. Image Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/2.%20Image%20Loading.png "Book List Screen")
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/3751ff22649160832958ca6f7ea6df7ca6cd2718/demo/screenshots/1.%20Initial%20Loading.png" width="200" >
 
-![3. Date Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/3.%20Data%20Loaded.png "Book List Screen")
 
-![4. Infinite Scroll State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/4.%20Infinite%20Scroll.png "Book List Screen")
+2. Image Loading State
 
-![5. Book Details Screen](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/5.%20Book%20Details%20Screen.png "Book Details Screen")
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/2.%20Image%20Loading.png" width="200" >
 
-![6. Searfch Loading](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/6.%20Search%20Loading.png "Book List Screen")
+
+3. Date Loading State
+
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/3.%20Data%20Loaded.png" width="200" >
+
+4. Infinite Scroll State
+
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/4.%20Infinite%20Scroll.png" width="200" >
+
+5. Book Details Screen
+
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/5.%20Book%20Details%20Screen.png" width="200" >
+
+6. Searfch Loading
+
+    <img src="https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/6.%20Search%20Loading.png" width="200" >
 
 [Demo Video]: https://github.com/sezanhaque/riverpod_bookbuddy/blob/master/demo/video.gif "Demo"
