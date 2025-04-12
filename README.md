@@ -78,4 +78,4 @@ We are using Riverpod for state management and dependency injection, along with 
 
 ### Demo
 
-[logo]: https://github.com/sezanhaque/riverpod_bookbuddy/demo/video.jpg "Demo"
+[Demo Video]: https://github.com/sezanhaque/riverpod_bookbuddy/blob/master/demo/video.gif "Demo"
