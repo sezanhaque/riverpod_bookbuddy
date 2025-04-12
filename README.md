@@ -76,6 +76,20 @@ It follows **MVVM Clean Architecture**, uses **Riverpod** for state management, 
 
 We are using Riverpod for state management and dependency injection, along with an MVVM structure.
 
-### Demo
+## Demo
+
+### Screenshots
+
+![1. Initial Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/3751ff22649160832958ca6f7ea6df7ca6cd2718/demo/screenshots/1.%20Initial%20Loading.png "Book List Screen")
+
+![2. Image Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/2.%20Image%20Loading.png "Book List Screen")
+
+![3. Date Loading State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/3.%20Data%20Loaded.png "Book List Screen")
+
+![4. Infinite Scroll State](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/4.%20Infinite%20Scroll.png "Book List Screen")
+
+![5. Book Details Screen](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/5.%20Book%20Details%20Screen.png "Book Details Screen")
+
+![6. Searfch Loading](https://raw.githubusercontent.com/sezanhaque/riverpod_bookbuddy/refs/heads/master/demo/screenshots/6.%20Search%20Loading.png "Book List Screen")
 
 [Demo Video]: https://github.com/sezanhaque/riverpod_bookbuddy/blob/master/demo/video.gif "Demo"
